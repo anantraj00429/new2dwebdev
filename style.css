@@ -77,6 +77,14 @@
   color: #fff;
   display: flex;
 }
+
+.footer1 > h2 {
+  position: relative;
+  left: 104%;
+  color: #fff;
+  font-size: 25px;
+}
+
 .footer1 button {
   color: #0f0f0f;
   background-color: #fff;
